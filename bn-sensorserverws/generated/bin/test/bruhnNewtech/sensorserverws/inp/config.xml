@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <WebService clientResponseTimeOut="5000" discoveryDisable="false" serverAddress="http://0.0.0.0:11008" discoveryTypeName="SCIMService" startMsgServerOnSubscription="true"/>
+</Config>

@@ -1,0 +1,11 @@
+# List of all compile time dependencies used by this component including version number
+# DO NOT CHECK IN
+
+w:/java/jdk1.8.0/modules/toolbox/bn-filterbuilder/2.56/bn-filterbuilder.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-commons-constants/8.28/bn-commons-constants.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-commons-i18n/12.4/bn-commons-i18n.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/bn-commons.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-testutils/3.5/bn-testutils.inc
+w:/java/jdk1.8.0/modules/business/bn-sensorserver/2.90/bn-sensorserver.inc
+w:/java/jdk1.8.0/modules/business/bn-sensoroverview/1.21/bn-sensoroverview.inc
+w:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/apachecxf.inc

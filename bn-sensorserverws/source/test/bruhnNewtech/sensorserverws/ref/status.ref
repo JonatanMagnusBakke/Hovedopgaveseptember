@@ -1,0 +1,18 @@
+<Response>
+    <SensorOverview>
+        <Status group="Vehicle" sensorId="id2">
+            <Major>OFFLINE</Major>
+            <Minor/>
+            <Description/>
+            <Readings/>
+            <Position>-</Position>
+        </Status>
+        <Status group="Vehicle" sensorId="id1">
+            <Major>OFFLINE</Major>
+            <Minor/>
+            <Description/>
+            <Readings/>
+            <Position>-</Position>
+        </Status>
+    </SensorOverview>
+</Response>

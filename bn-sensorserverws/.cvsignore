@@ -1,0 +1,7 @@
+generated
+dependencies.compile.txt
+.checkstyle
+.classpath
+.project
+dependencies.run.txt
+cobertura.ser

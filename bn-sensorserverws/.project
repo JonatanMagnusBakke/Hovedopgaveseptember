@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+    <name>bn-sensorserverws</name>
+    <comment>Project file created by Bruhn NewTech JAVA development environment</comment>
+    <projects/>
+    <buildSpec>
+        <buildCommand>
+            <name>org.eclipse.jdt.core.javabuilder</name>
+            <arguments/>
+        </buildCommand>
+        <buildCommand>
+            <name>net.sf.eclipsecs.core.CheckstyleBuilder</name>
+            <arguments/>
+        </buildCommand>
+    </buildSpec>
+    <natures>
+        <nature>org.eclipse.jdt.core.javanature</nature>
+        <nature>net.sf.eclipsecs.core.CheckstyleNature</nature>
+    </natures>
+</projectDescription>

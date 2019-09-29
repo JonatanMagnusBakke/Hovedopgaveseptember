@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="source"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-filterbuilder/2.56/release/bn-filterbuilder-source.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-filterbuilder/2.56/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-filterbuilder/2.56/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-filterbuilder/2.56/release/bn-filterbuilder-test-source.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-filterbuilder/2.56/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-filterbuilder/2.56/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-filterbuilder/2.56/release/bn-filterbuilder.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-filterbuilder/2.56/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-filterbuilder/2.56/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-commons-constants/8.28/release/bn-commons-constants-source.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-commons-constants/8.28/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-commons-constants/8.28/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-commons-constants/8.28/release/bn-commons-constants.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-commons-constants/8.28/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-commons-constants/8.28/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-commons-i18n/12.4/release/bn-commons-i18n-source.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-commons-i18n/12.4/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-commons-i18n/12.4/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-commons-i18n/12.4/release/bn-commons-i18n.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-commons-i18n/12.4/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-commons-i18n/12.4/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/release/bn-commons-demo-source.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/release/bn-commons-source.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/release/bn-commons-test-source.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/release/bn-commons.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-testutils/3.5/release/bn-testutils-source.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-testutils/3.5/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-testutils/3.5/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-testutils/3.5/release/bn-testutils-test-source.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-testutils/3.5/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-testutils/3.5/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/toolbox/bn-testutils/3.5/release/bn-testutils.jar" sourcepath="W:/java/jdk1.8.0/modules/toolbox/bn-testutils/3.5/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/toolbox/bn-testutils/3.5/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/business/bn-sensorserver/2.90/release/bn-sensorserver-source.jar" sourcepath="W:/java/jdk1.8.0/modules/business/bn-sensorserver/2.90/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/business/bn-sensorserver/2.90/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/business/bn-sensorserver/2.90/release/bn-sensorserver-test-source.jar" sourcepath="W:/java/jdk1.8.0/modules/business/bn-sensorserver/2.90/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/business/bn-sensorserver/2.90/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/business/bn-sensorserver/2.90/release/bn-sensorserver.jar" sourcepath="W:/java/jdk1.8.0/modules/business/bn-sensorserver/2.90/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/business/bn-sensorserver/2.90/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/business/bn-sensoroverview/1.21/release/bn-sensoroverview-source.jar" sourcepath="W:/java/jdk1.8.0/modules/business/bn-sensoroverview/1.21/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/business/bn-sensoroverview/1.21/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/business/bn-sensoroverview/1.21/release/bn-sensoroverview-test-source.jar" sourcepath="W:/java/jdk1.8.0/modules/business/bn-sensoroverview/1.21/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/business/bn-sensoroverview/1.21/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/modules/business/bn-sensoroverview/1.21/release/bn-sensoroverview.jar" sourcepath="W:/java/jdk1.8.0/modules/business/bn-sensoroverview/1.21/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/modules/business/bn-sensoroverview/1.21/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/activemq-broker-5.14.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/activemq-client-5.14.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/activemq-openwire-legacy-5.14.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/ant-1.10.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/ant-launcher-1.10.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/antlr-2.7.7.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/asm-7.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/bcprov-jdk15on-1.60.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/codemodel-2.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/commons-codec-1.11.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/commons-collections-3.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/commons-lang3-3.8.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/commons-text-1.6.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cryptacular-1.1.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-core-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-manifest.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-bindings-coloc-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-bindings-corba-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-bindings-soap-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-bindings-xml-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-databinding-aegis-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-databinding-jaxb-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-features-clustering-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-features-logging-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-features-metrics-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-features-throttling-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-frontend-jaxrs-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-frontend-jaxws-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-frontend-js-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-frontend-simple-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-javascript-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-management-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-client-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-extension-providers-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-extension-search-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-http-sci-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-json-basic-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-mp-client-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-security-cors-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-security-http-signature-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-security-jose-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-security-jose-jaxrs-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-security-oauth-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-security-oauth2-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-security-oauth2-saml-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-security-sso-oidc-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-security-sso-saml-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-security-xml-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-service-description-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-rs-sse-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-security-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-security-saml-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-transports-http-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-transports-http-hc-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-transports-http-jetty-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-transports-http-netty-client-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-transports-http-netty-server-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-transports-http-undertow-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-transports-jms-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-transports-local-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-transports-udp-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-transports-websocket-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-ws-addr-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-ws-eventing-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-ws-mex-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-ws-policy-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-ws-rm-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-ws-security-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-ws-transfer-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-rt-wsdl-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-services-sts-core-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-services-ws-discovery-api-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-services-ws-discovery-service-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-services-wsn-api-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-services-wsn-core-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-tools-common-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-tools-corba-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-tools-java2ws-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-tools-misctools-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-tools-validator-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-tools-wadlto-jaxrs-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-tools-wsdlto-core-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-tools-wsdlto-databinding-jaxb-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-tools-wsdlto-frontend-javascript-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-tools-wsdlto-frontend-jaxws-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-xjc-boolean-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-xjc-bug671-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-xjc-dv-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-xjc-javadoc-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-xjc-runtime-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/cxf-xjc-ts-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/dtd-parser-1.4.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/ehcache-2.10.6.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/FastInfoset-1.2.15.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/geronimo-j2ee-management_1.1_spec-1.0.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/geronimo-javamail_1.4_mail-1.8.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/geronimo-jms_1.1_spec-1.1.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/geronimo-jta_1.1_spec-1.1.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/guava-20.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/hawtbuf-1.11.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/httpasyncclient-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/httpclient-4.5.6.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/httpcore-4.4.10.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/httpcore-nio-4.4.10.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/istack-commons-runtime-3.0.8.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/istack-commons-tools-3.0.8.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jakarta.activation-api-1.2.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jakarta.ws.rs-api-2.1.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jakarta.xml.bind-api-2.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jasypt-1.9.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/java-support-7.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/javax.annotation-api-1.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/javax.inject-1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/javax.json-api-1.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/javax.servlet-api-3.1.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jaxb-runtime-2.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jaxb-xjc-2.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jboss-annotations-api_1.2_spec-1.0.2.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jboss-logging-3.3.2.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jboss-servlet-api_4.0_spec-1.0.0.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jcl-over-slf4j-1.7.25.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jettison-1.4.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jetty-continuation-9.4.12.v20180830.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jetty-http-9.4.12.v20180830.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jetty-io-9.4.12.v20180830.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jetty-security-9.4.12.v20180830.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jetty-server-9.4.12.v20180830.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/jetty-util-9.4.12.v20180830.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/joda-time-2.9.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/js-1.7R2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/metrics-core-3.2.6.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/microprofile-rest-client-api-1.0.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/mina-core-2.0.19.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/neethi-3.1.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/oauth-20100527.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/oauth-provider-20100527.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-core-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-profile-api-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-saml-api-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-saml-impl-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-security-api-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-security-impl-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-soap-api-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-xacml-api-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-xacml-impl-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-xacml-saml-api-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-xacml-saml-impl-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-xmlsec-api-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/opensaml-xmlsec-impl-3.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/relaxng-datatype-2.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/rngom-2.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/slf4j-api-1.7.25.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/slf4j-log4j12-1.7.25.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/spring-aop-5.1.4.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/spring-beans-5.1.4.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/spring-context-5.1.4.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/spring-core-5.1.4.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/spring-expression-5.1.4.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/spring-jcl-5.1.4.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/spring-web-5.1.4.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/stax-ex-1.8.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/tomitribe-http-signatures-1.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/txw2-2.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/undertow-core-2.0.17.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/undertow-servlet-2.0.17.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/velocity-engine-core-2.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/wsdl4j-1.6.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/wss4j-bindings-2.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/wss4j-policy-2.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/wss4j-ws-security-common-2.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/wss4j-ws-security-dom-2.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/wss4j-ws-security-policy-stax-2.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/wss4j-ws-security-stax-2.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/xml-resolver-1.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/xmlschema-core-2.2.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/xmlsec-2.1.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/xnio-api-3.3.8.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/xnio-nio-3.3.8.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/release/xsom-2.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/W:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/docs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="W:/java/env/CPRID31622/junit4.12/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="W:/java/env/CPRID31622/junit4.12/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/javax.websocket-api-1.1.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/grizzly-http-server-2.3.3.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/tyrus stuff/grizzly-framework-2.3.3.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/tyrus stuff/grizzly-http-2.3.3.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/tyrus stuff/grizzly-http-server-2.3.3.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/tyrus stuff/grizzly-rcm-2.3.3.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/tyrus stuff/tyrus-container-grizzly-1.1.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/tyrus stuff/tyrus-core-1.1.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/tyrus stuff/tyrus-server-1.1.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/tyrus stuff/tyrus-spi-1.1.jar"/>
+	<classpathentry kind="lib" path="W:/jmb java/jar_files/tyrus stuff/tyrus-websocket-core-1.1.jar"/>
+	<classpathentry kind="output" path="generated/bin"/>
+</classpath>

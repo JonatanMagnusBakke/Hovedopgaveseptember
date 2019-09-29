@@ -1,0 +1,6 @@
+<Response>
+    <Sensor group="Vehicle" id="id1" model="RAID-XP" name="RAID-XP Chem" type="CHEM">
+        <Capability>Power</Capability>
+    </Sensor>
+    <Sensor group="Vehicle" id="id2" model="RAID-XP" name="RAID-XP Rad" type="NUC"/>
+</Response>

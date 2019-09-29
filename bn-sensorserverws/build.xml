@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<project name="bn-sensorserverws" default="jar">
+    <description>
+       Bruhn NewTech SCIM Web Service
+    </description>
+
+  <!--
+  setup environment
+  -->
+  <property environment="env"/>
+
+  <!-- Import the common build file from the environment -->
+  <import file="${env._NWT_JAVAREL}/env/${env._NWT_JAVAENVVER}/common.xml"/>
+
+</project>

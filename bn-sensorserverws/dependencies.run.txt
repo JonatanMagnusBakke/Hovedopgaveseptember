@@ -1,0 +1,26 @@
+# List of all run time dependencies used by this component including version number
+# DO NOT CHECK IN
+
+w:/java/jdk1.8.0/modules/toolbox/bn-filterbuilder/2.56/bn-filterbuilder.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-commons/31.25/bn-commons.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-commons-i18n/12.4/bn-commons-i18n.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-commons-constants/8.28/bn-commons-constants.inc
+w:/java/jdk1.6.0/tools/staxmate/2.3.0/staxmate.inc
+w:/java/jdk1.6.0/tools/stax/3.1.4/stax.inc
+w:/java/jdk1.6.0/tools/woodstox/5.0.3/woodstox.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-testutils/3.5/bn-testutils.inc
+w:/java/jdk1.6.0/tools/xmlunit/2.1.0/xmlunit.inc
+w:/java/jdk1.8.0/modules/business/bn-sensorserver/2.90/bn-sensorserver.inc
+w:/java/jdk1.8.0/modules/business/bn-commons-sensor/1.31/bn-commons-sensor.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-checksum/2.18/bn-checksum.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-serialio/2.3/bn-serialio.inc
+w:/java/jdk1.8.0/modules/business/bn-protocol/1.9/bn-protocol.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-sensortestutils/1.14/bn-sensortestutils.inc
+w:/java/jdk1.6.0/tools/javacommapi/2.0/javacommapi.inc
+w:/java/jdk1.8.0/modules/toolbox/bn-serialrxtx/2.3/bn-serialrxtx.inc
+w:/java/jdk1.6.0/tools/rxtx/2.1.7/rxtx.inc
+w:/java/jdk1.8.0/modules/business/bn-haspimpl/1.6/bn-haspimpl.inc
+w:/java/jdk1.6.0/tools/haspjar/3.60/haspjar.inc
+w:/java/jdk1.8.0/modules/business/bn-sensoroverview/1.21/bn-sensoroverview.inc
+w:/java/jdk1.8.0/modules/business/bn-gpsstore/3.14/bn-gpsstore.inc
+w:/java/jdk1.8.0/tools/apachecxf/3.3.0.1/apachecxf.inc
